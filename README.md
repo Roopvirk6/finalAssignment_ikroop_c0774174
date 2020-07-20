@@ -14,5 +14,5 @@ VARIOUS FOLDERS:
 <img src="https://s7.gifyu.com/images/Screenshot_1595265942.md.png" alt="Screenshot_1595265942.png alt = "nearby museums" height = "400" width = "400" border="0" />
 <img src="https://s7.gifyu.com/images/Screenshot_1595265948.md.png" alt="Screenshot_1595265948.png alt = "nearbt cafes" height = "400" width = "400"  border="0" />
 <img src="https://s7.gifyu.com/images/Screenshot_1595265989.md.png" alt="Screenshot_1595265989.png"  alt = "distance and direction" height = "400" width = "400" border="0" />
-<img src="https://s7.gifyu.com/images/Screenshot_1595266023.md.png" alt="Screenshot_1595266023.png" height = "400" width = "400" border="0" />
 <img src="https://s7.gifyu.com/images/Screenshot_1595265998.md.png" alt="Screenshot_1595265998.png" height = "400" width = "400" border="0" />
+<img src="https://s7.gifyu.com/images/Screenshot_1595266023.md.png" alt="Screenshot_1595266023.png" height = "400" width = "400" border="0" />
