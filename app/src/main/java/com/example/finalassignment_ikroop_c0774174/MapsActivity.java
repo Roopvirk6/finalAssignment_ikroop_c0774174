@@ -341,7 +341,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 break;
 
             case R.id.btn_clear:
-                mMap.clear();
+               // mMap.clear();
                 break;
 
         }
